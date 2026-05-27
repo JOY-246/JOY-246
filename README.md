@@ -10,14 +10,14 @@
 
 <div align="center">
  
- 🔭 I’m currently working on <b>OpenGL Simulations, AI Research & Smart System</b><br>
+ 🔭 I’m currently working on <b>OpenGL Simulations, AI Research & Smart Systems</b><br>
  🌱 I’m currently learning <b>Machine Learning, Deep Learning, Cloud Computing & Advanced Software Development</b><br>
 💬 Ask me about <b>C++, OpenGL, Python, Research, Web Development & AI Tools</b><br>
 ⚡ Fun fact: <b>I enjoy building realistic simulations and intelligent systems</b>
 
 </div>
 
-<br>
+<br/>
 
 <div align="center"> 
   <a href="mailto:YOUR_EMAIL@gmail.com">
@@ -83,15 +83,14 @@
 
 <h2 align="center">⚡ GitHub Stats ⚡</h2>
 
-<br>
+<br/>
 
 <div align="center">
 
-  <br/>
-
   <img width="390"
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=joysarker&langs_count=8&layout=compact&theme=react&border_radius=10"
-       alt="Top Languages" />
+       src="https://streak-stats.demolab.com?user=joysarker&theme=react&border_radius=10"
+       alt="GitHub Streak Stats" />
+
 </div>
 
 <br/><br/>
