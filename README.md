@@ -1,4 +1,4 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=joysarker.joysarker" />
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=JOY-246.JOY-246" />
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=650&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Joy+Sarker!;+Programmer+%7C+Researcher+%7C+AI+Enthusiast;+OpenGL+Developer+%7C+CSE+Student" />
@@ -19,7 +19,9 @@
 ⚡ Fun fact: <b>I enjoy building realistic simulations and intelligent systems</b>
 
 </div>
- <br>
+
+<br>
+
 <div align="center"> 
   <a href="mailto:YOUR_EMAIL@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
@@ -29,13 +31,15 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 
-  <a href="https://github.com/joysarker" target="_blank">
+  <a href="https://github.com/JOY-246" target="_blank">
      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-   <a href="https://scholar.google.com/citations?user=fRYtqlMAAAAJ&hl=en" target="_blank">
+
+  <a href="https://scholar.google.com/citations?user=fRYtqlMAAAAJ&hl=en" target="_blank">
      <img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white" />
   </a>
-   <a href="https://orcid.org/YOUR_ORCID" target="_blank">
+
+  <a href="https://orcid.org/YOUR_ORCID" target="_blank">
      <img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" target="_blank" />
   </a>
 </div>
@@ -101,7 +105,7 @@
 <div align="center">
   
   <img width="390"
-       src="https://streak-stats.demolab.com?user=joysarker&theme=react&border_radius=10"
+       src="https://streak-stats.demolab.com?user=JOY-246&theme=react&border_radius=10"
        alt="GitHub Streak Stats" />
 
   <img width="390"
