@@ -92,7 +92,7 @@
        alt="GitHub Streak Stats" />
 
   <img width="390"
-       src="https://github-readme-stats.vercel.app/api?username=joysarker&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10"
+       src="https://github-readme-stats-stats.herokuapp.com?user=joysarker&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10"
        alt="GitHub Stats" />
 
   <br/>
