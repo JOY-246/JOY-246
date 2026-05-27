@@ -1,7 +1,7 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=JOY-246.JOY-246" />
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=joysarker.joysarker" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=650&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Joy+Sarker!;+Programmer+%7C+Researcher+%7C+AI+Enthusiast;+OpenGL+Developer+%7C+CSE+Student" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=650&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Joy+Sarker!;+Programmer+%7C+Researcher+%7C+AI+Enthusiast" />
 </h1>
 
 <h3 align="center">A passionate CSE student & developer from Bangladesh 🇧🇩</h3>
@@ -11,11 +11,8 @@
 <div align="center">
  
  🔭 I’m currently working on <b>OpenGL Simulations, AI Research & Smart System</b><br>
- 
  🌱 I’m currently learning <b>Machine Learning, Deep Learning, Cloud Computing & Advanced Software Development</b><br>
-
 💬 Ask me about <b>C++, OpenGL, Python, Research, Web Development & AI Tools</b><br>
-
 ⚡ Fun fact: <b>I enjoy building realistic simulations and intelligent systems</b>
 
 </div>
@@ -31,7 +28,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 
-  <a href="https://github.com/JOY-246" target="_blank">
+  <a href="https://github.com/joysarker" target="_blank">
      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 
@@ -39,8 +36,8 @@
      <img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white" />
   </a>
 
-  <a href="https://orcid.org/YOUR_ORCID" target="_blank">
-     <img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" target="_blank" />
+  <a href="https://orcid.org/0009-0008-9509-8958" target="_blank">
+     <img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" />
   </a>
 </div>
 
@@ -64,11 +61,10 @@
 <div align="center">
   <h2>🚀 Featured Projects 🚀</h2>
   
-  ✈️ <b>Airport Simulation with Day/Night & Weather Effects</b><br>
+  ✈️ <b>Village Scenario Simulation with Day/Night & Weather Effects</b><br>
   🚌 <b>Smart Public Transport Safety System</b><br>
   🏙️ <b>Realistic Town & Village Environment Simulation</b><br>
   🤖 <b>AI & Deep Learning Based Research Projects</b>
-  
 </div>
 
 <br/>
@@ -84,40 +80,26 @@
 </div>
 
 <br/>
-<hr/>
-
-<div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
-  <br>
-  
-  <img alt="snake eating my contributions" 
-       src="https://raw.githubusercontent.com/JOY-246/JOY-246/output/github-contribution-grid-snake.svg" />
-  
-  <br/><br/><br/>
-</div>
-
-<hr/>
 
 <h2 align="center">⚡ GitHub Stats ⚡</h2>
 
 <br>
 
 <div align="center">
-  
+
   <img width="390"
-       src="https://streak-stats.demolab.com?user=JOY-246&theme=react&border_radius=10"
+       src="https://github-readme-streak-stats.herokuapp.com?user=joysarker&theme=react&border_radius=10"
        alt="GitHub Streak Stats" />
 
   <img width="390"
-       src="https://github-readme-stats.vercel.app/api?username=JOY-246&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10"
+       src="https://github-readme-stats.vercel.app/api?username=joysarker&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10"
        alt="GitHub Stats" />
 
   <br/>
 
-  <img width="325"
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=JOY-246&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10"
+  <img width="390"
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=joysarker&langs_count=8&layout=compact&theme=react&border_radius=10"
        alt="Top Languages" />
-       
 </div>
 
 <br/><br/>
