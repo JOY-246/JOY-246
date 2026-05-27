@@ -87,14 +87,6 @@
 
 <div align="center">
 
-  <img width="390"
-       src="https://github-readme-streak-stats.herokuapp.com?user=joysarker&theme=react&border_radius=10"
-       alt="GitHub Streak Stats" />
-
-  <img width="390"
-       src="https://github-readme-stats-stats.herokuapp.com?user=joysarker&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10"
-       alt="GitHub Stats" />
-
   <br/>
 
   <img width="390"
