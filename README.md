@@ -87,7 +87,7 @@
   <br>
   
   <img alt="snake eating my contributions" 
-       src="https://raw.githubusercontent.com/joysarker/joysarker/output/github-contribution-grid-snake.svg" />
+       src="https://raw.githubusercontent.com/JOY-246/JOY-246/output/github-contribution-grid-snake.svg" />
   
   <br/><br/><br/>
 </div>
@@ -105,13 +105,13 @@
        alt="GitHub Streak Stats" />
 
   <img width="390"
-       src="https://github-readme-stats.vercel.app/api?username=joysarker&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10"
+       src="https://github-readme-stats.vercel.app/api?username=JOY-246&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10"
        alt="GitHub Stats" />
 
   <br/>
 
   <img width="325"
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=joysarker&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10"
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=JOY-246&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10"
        alt="Top Languages" />
        
 </div>
