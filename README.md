@@ -79,15 +79,6 @@
 
 <h2 align="center">⚡ GitHub Stats ⚡</h2>
 
-## ⚡ GitHub Stats ⚡
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?...
-</p>
-
-### 📊 My 3D Contribution Graph
-![](./profile-3d-contrib/profile-green-animate.svg)
-
 <br/>
 
 <div align="center">
