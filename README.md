@@ -94,7 +94,7 @@
 <hr/>
 
 <div align="center">
-  <h2>🏆 Achievements & Activities 🏆</h2>
+  <h2>🏆Achievements & Activities🏆</h2>
 
   🎓 Computer Science & Engineering Student at AIUB <br>
   📚 Active Research Enthusiast <br>
