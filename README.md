@@ -12,15 +12,15 @@
  
  🔭 I’m currently working on <b>OpenGL Simulations, AI Research & Smart Systems</b><br>
  🌱 I’m currently learning <b>Machine Learning, Deep Learning, Cloud Computing & Advanced Software Development</b><br>
-💬 Ask me about <b>C++, OpenGL, Python, Research, Web Development & AI Tools</b><br>
-⚡ Fun fact: <b>I enjoy building realistic simulations and intelligent systems</b>
+ 💬 Ask me about <b>C++, OpenGL, Python, Research, Web Development & AI Tools</b><br>
+ ⚡ Fun fact: <b>I enjoy building realistic simulations and intelligent systems</b>
 
 </div>
 
 <br/>
 
 <div align="center"> 
-  <a href="mailto:YOUR_EMAIL@gmail.com">
+  <a href="mailto:joysarker.cse@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
 
@@ -32,7 +32,7 @@
      <img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" />
   </a>
 
-   <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="_blank">
+   <a href="https://linkedin.com/in/JOY-246" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </div>
@@ -83,13 +83,13 @@
 
 <div align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=joysarker&show_icons=true&theme=react&border_radius=10" alt="GitHub Stats" />
-  
-  <img src="https://streak-stats.demolab.com?user=joysarker&theme=react&border_radius=10" alt="GitHub Streak Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=JOY-246&show_icons=true&theme=react&border_radius=10" alt="GitHub Stats" />
+  <br/><br/>
+  <img src="https://streak-stats.demolab.com?user=JOY-246&theme=react&border_radius=10" alt="GitHub Streak Stats" />
 
   <br/><br/>
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joysarker&layout=compact&theme=react&border_radius=10" alt="Most Used Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JOY-246&layout=compact&theme=react&border_radius=10" alt="Most Used Languages" />
 
 </div>
 
@@ -98,7 +98,7 @@
 <hr/>
 
 <div align="center">
-  <h2>🏆Achievements & Activities🏆</h2>
+  <h2>🏆 Achievements & Activities 🏆</h2>
 
   🎓 Computer Science & Engineering Student at AIUB <br>
   📚 Active Research Enthusiast <br>
