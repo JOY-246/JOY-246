@@ -1,4 +1,4 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=joysarker.joysarker" />
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=JOY-246.JOY-246" />
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=650&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Joy+Sarker!;+Programmer+%7C+Researcher+%7C+AI+Enthusiast" />
@@ -77,24 +77,17 @@
 
 <br/>
 
-<h2 align="center">⚡ GitHub Stats ⚡</h2>
+## ⚡️ Stats
 
-<br/>
+<br>
 
 <div align="center">
-
-  <img src="https://github-readme-stats.vercel.app/api?username=JOY-246&show_icons=true&theme=react&border_radius=10" alt="GitHub Stats" />
-  <br/><br/>
-  <img src="https://streak-stats.demolab.com?user=JOY-246&theme=react&border_radius=10" alt="GitHub Streak Stats" />
-
-  <br/><br/>
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JOY-246&layout=compact&theme=react&border_radius=10" alt="Most Used Languages" />
-
+  <img width="390" src="https://github-readme-stats.vercel.app/api?username=JOY-246&theme=transparent&count_private=true&show_icons=true&rank_icon=github&locale=en" alt="JOY-246's GitHub Stats" />
+  <img width="390" src="https://streak-stats.demolab.com/?user=JOY-246&theme=transparent&count_private=true&border_radius=10&locale=en" alt="JOY-246's Streak Stats" />
+  <img width="325" src="https://github-readme-stats.vercel.app/api/top-langs?username=JOY-246&theme=transparent&layout=donut&hide=css&langs_count=8&border_radius=10&show_icons=true&locale=en" alt="JOY-246's Most Used Languages" />
 </div>
 
-<br/><br/>
-
+<br/>
 <hr/>
 
 <div align="center">
