@@ -83,9 +83,13 @@
 
 <div align="center">
 
-  <img width="390"
-       src="https://streak-stats.demolab.com?user=joysarker&theme=react&border_radius=10"
-       alt="GitHub Streak Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=joysarker&show_icons=true&theme=react&border_radius=10" alt="GitHub Stats" />
+  
+  <img src="https://streak-stats.demolab.com?user=joysarker&theme=react&border_radius=10" alt="GitHub Streak Stats" />
+
+  <br/><br/>
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joysarker&layout=compact&theme=react&border_radius=10" alt="Most Used Languages" />
 
 </div>
 
