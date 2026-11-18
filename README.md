@@ -32,7 +32,7 @@
      <img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" />
   </a>
 
-   <a href="https://linkedin.com/in/JOY-246" target="_blank">
+   <a href="https://www.linkedin.com/in/joy-sarker-751309287/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </div>
